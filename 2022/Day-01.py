@@ -12,7 +12,7 @@
 
 elf_inventory_list = []
 
-with open("2022_12_01_Day_01.txt", "r") as day01file:
+with open("Input_files_2022_12_01.txt", "r") as day01file:
     lines = day01file.readlines()
     
     temp_elf_inventory = 0
@@ -54,4 +54,3 @@ for x in range (0, number_of_inventory_elf_top_ranked_to_analyzed):
 
 print(f"The top {number_of_inventory_elf_top_ranked_to_analyzed} carry a total of {top_x_elf_calories_inventories} calories.")
 #Answer: 204610
-

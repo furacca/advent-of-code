@@ -24,7 +24,7 @@ for everychar in alphabet_upper_lower:
     priority_number += 1
 
 # Reading input file
-with open("2022_12_03.txt", "r") as day03file:
+with open("Input_files_2022_12_03.txt", "r") as day03file:
     lines = day03file.readlines()
 
     # List of the wrong items (which are in both comparments)
@@ -79,7 +79,7 @@ with open("2022_12_03.txt", "r") as day03file:
 
 
 # Reading input file
-with open("2022_12_03.txt", "r") as day03file:
+with open("Input_files_2022_12_03.txt", "r") as day03file:
     lines = day03file.readlines()
     
     # List of lists (cointains 100 lists made by 3 lines each)

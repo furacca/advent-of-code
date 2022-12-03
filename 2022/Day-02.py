@@ -39,7 +39,7 @@ def whosthewinner(yourchoice,mychoice):
     return round_result
 
 
-with open("2022_12_01_Day_02.txt", "r") as day02file:
+with open("Input_files_2022_12_02.txt", "r") as day02file:
     lines = day02file.readlines()
     total_score = 0
     for everylines in lines:
@@ -95,7 +95,7 @@ def pointgained(yourchoice,destiny):
     return round_result
 
 
-with open("2022_12_01_Day_02.txt", "r") as day02file:
+with open("Input_files_2022_12_01.txt", "r") as day02file:
     lines = day02file.readlines()
     total_score = 0
     for everylines in lines:

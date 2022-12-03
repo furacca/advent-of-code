@@ -3,8 +3,11 @@
 # ==========================
 # Rock Paper Scissors
 # ==========================
-# First part
+# https://adventofcode.com/2022/day/2
 # ==========================
+# 
+# FIRST PART
+# 
 
 def whosthewinner(yourchoice,mychoice):
     round_result = 0
@@ -54,8 +57,10 @@ print(f"The total score with this first strategy is {total_score}.")
 # ==========================
 # Rock Paper Scissors
 # ==========================
-# Second part
+# https://adventofcode.com/2022/day/2
 # ==========================
+#
+# SECOND PART
 
 def pointgained(yourchoice,destiny):
     round_result = 0

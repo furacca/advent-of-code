@@ -3,7 +3,12 @@
 # ==========================
 # Calorie Counting
 # ==========================
-# First part - Find the elf with the eighest number of calories inside their inventory
+# https://adventofcode.com/2022/day/1
+# ==========================
+# 
+# FIRST PART
+# 
+# Find the elf with the eighest number of calories inside their inventory
 
 elf_inventory_list = []
 
@@ -30,7 +35,10 @@ print(f"The highest number of calories carried is {elf_inventory_list[0]}")
 # ==========================
 # Calorie Counting
 # ==========================
-# Second part
+# https://adventofcode.com/2022/day/1
+# ==========================
+#
+# SECOND PART
 
 # Easiest way
 # top_three_elf_calories_inventories = elf_inventory_list[0] + elf_inventory_list[1] + elf_inventory_list[2]

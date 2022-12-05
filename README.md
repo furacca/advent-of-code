@@ -11,3 +11,4 @@ See the [2022 folder](https://github.com/furacca/advent-of-code/tree/main/2022)
 * [Day-02](https://github.com/furacca/advent-of-code/blob/main/2022/Day-02.py) - Rock Paper Scissors
 * [Day-03](https://github.com/furacca/advent-of-code/blob/main/2022/Day-03.py) - Rucksack Reorganization
 * [Day-04](https://github.com/furacca/advent-of-code/blob/main/2022/Day-04.py) - Camp Cleanup
+* [Day-05](https://github.com/furacca/advent-of-code/blob/main/2022/Day-05.py) - Supply Stacks

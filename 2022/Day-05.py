@@ -9,8 +9,6 @@
 # FIRST AND SECOND PART (in the last rows there are two call for two different function which give two different result)
 #
 
-# Day 05 - Supply Stacks
-
 
 with open("Input_files_2022_12_05.txt", "r") as day05file:
     lines = day05file.readlines()

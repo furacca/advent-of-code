@@ -26,7 +26,6 @@ with open("Input_files_2022_12_05.txt", "r") as day05file:
         else:
             pass
     
-    
     temporary_stack_pile_reversed_to_be_splitted = firstparse.split(",")    
     temporary_stack_pile_reversed = []
     
@@ -56,8 +55,6 @@ with open("Input_files_2022_12_05.txt", "r") as day05file:
                     hereiam.append(everylist[everycolumn])
         stack_pile.append(hereiam)
         
-        
-
     list_of_all_moves = []
     
     for everylines in lines:
@@ -67,9 +64,6 @@ with open("Input_files_2022_12_05.txt", "r") as day05file:
             # Adding a list of three digit (the three moves) in the list [list_of_all_moves]
             list_of_all_moves.append([int(splittedtext[1]), int(splittedtext[3]), int(splittedtext[5])])
             
-            
-    
-    # First part
 
 def first_part(stack_pile,list_of_all_moves):
     for everymove in list_of_all_moves:
@@ -118,4 +112,3 @@ print(f"The first result: {first_part_result}")
 second_part_result = second_part(stack_pile,list_of_all_moves)
 print(f"The second result: {second_part_result}")
 #Answer: RNRGDNFQG
-    

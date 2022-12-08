@@ -13,4 +13,5 @@ See the [2022 folder](https://github.com/furacca/advent-of-code/tree/main/2022)
 * [Day-04](https://github.com/furacca/advent-of-code/blob/main/2022/Day-04.py) - Camp Cleanup
 * [Day-05](https://github.com/furacca/advent-of-code/blob/main/2022/Day-05.py) - Supply Stacks
 * [Day-06](https://github.com/furacca/advent-of-code/blob/main/2022/Day-06.py) - Tuning Trouble
-* [Day-07](https://github.com/furacca/advent-of-code/blob/main/2022/Day-07.py) - No Space Left On Device
+* [Day-07](https://github.com/furacca/advent-of-code/blob/main/2022/Day-07.py) - No Space Left On Device **NOT SOLVED YET**
+* [Day-07](https://github.com/furacca/advent-of-code/blob/main/2022/Day-07.py) - Treetop Tree House **NOT SOLVED YET**

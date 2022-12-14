@@ -18,3 +18,6 @@ See the [2022 folder](https://github.com/furacca/advent-of-code/tree/main/2022)
 * [Day-09](https://github.com/furacca/advent-of-code/blob/main/2022/Day-09.py) - Rope Bridge **NOT SOLVED YET**
 * [Day-10](https://github.com/furacca/advent-of-code/blob/main/2022/Day-10.py) - Cathode-Ray Tube **NOT SOLVED YET**
 * [Day-11](https://github.com/furacca/advent-of-code/blob/main/2022/Day-11.py) - Monkey in the Middle **NOT SOLVED YET**
+* [Day-12](https://github.com/furacca/advent-of-code/blob/main/2022/Day-12.py) - Hill Climbing Algorithm **NOT SOLVED YET**
+* [Day-13](https://github.com/furacca/advent-of-code/blob/main/2022/Day-13.py) - Distress Signal **NOT SOLVED YET**
+* [Day-14](https://github.com/furacca/advent-of-code/blob/main/2022/Day-14.py) - Regolith Reservoir **NOT SOLVED YET**
